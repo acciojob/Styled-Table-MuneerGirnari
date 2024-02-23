@@ -1,1 +1,21 @@
 /* your code */
+*{
+	text-align:left;
+}
+
+table{
+	border: 1px solid black;
+	background-color: lightgray;
+	border-collapse: collapse;
+}
+
+thead{
+	background: skyblue;
+	color:white;
+}
+
+th,td{
+	padding:2px;
+	width: 100px;
+}
+
